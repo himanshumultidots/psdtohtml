@@ -211,6 +211,11 @@ p {
     float: left;
 }
 
+.search-bar input[type="submit"],
+.search-bar input[type="text"] {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .search-bar input[type="submit"] {
     font-size: 12px;
     background: #97455f;
@@ -219,6 +224,7 @@ p {
     padding: 8px;
     width: 80px;
     float: left;
+    text-transform: uppercase;
     cursor: pointer;
 }
 
