@@ -184,8 +184,8 @@ p {
     width: 112px;
     height: 30px;
     text-align: left;
-    color: #dbdbdb;
-    border-left: 2px solid #dbdbdb;
+    color: #b4afaf;
+    border-left: 2px solid #b4afaf;
     margin: 29px 8px;
     padding-left: 5px;
     font-weight: normal;
@@ -754,7 +754,7 @@ input[type="button"]:hover {
     margin: 0;
     font-weight: normal;
     font-size: 12px;
-    color: #adadad;
+    color: #b4afaf;
 }
 
 .footer-section-2 {
@@ -779,13 +779,13 @@ input[type="button"]:hover {
 .footer-company-info .company-timing p,
 .footer-company-info .company-contact p {
     font-size: 12px;
-    color: #adadad;
+    color: #b4afaf;
     margin: 0;
 }
 
 .footer-company-info .company-timing h1 {
     font-size: 14px;
-    color: #adadad;
+    color: #b4afaf;
     margin: 0;
     font-weight: 400;
     margin-bottom: 5px;
@@ -862,19 +862,15 @@ input[type="button"]:hover {
     text-align: left;
 }
 
-.footer-copyright-row .copyright p {
+.footer-copyright-row .copyright p,
+.footer-copyright-row .ownership p {
     font-size: 12px;
-    color: #adadad;
+    color: #b4afaf;
 }
 
 .footer-copyright-row .ownership {
     width: 50%;
     text-align: right;
-}
-
-.footer-copyright-row .ownership p {
-    font-size: 12px;
-    color: #adadad;
 }
 
 /* 
